@@ -94,7 +94,7 @@ sudo apt install git
 - Set Source to `main` branch, root folder
 - GitHub will give you a URL to your webpage
 
-## How to version control
+# How to version control
 
 ### Making Commits
 
@@ -187,6 +187,8 @@ git tag v1.0.0
 - Use a `.gitignore` to exclude unnecessary files
 
 ## Git Resources
+
+Here are additional resources you can use for your projects. 
 
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
