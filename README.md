@@ -31,6 +31,7 @@ You need two things:
 
 **Mac:**
 On mac, you will also be using the terminal. Click on this icon, or search and open the terminal using Spotlight.
+
 ![Terminal](images/icon.png)
 
 In the terminal, type and enter
