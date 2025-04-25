@@ -2,6 +2,8 @@
 
 ### Step 1: Download the Starter Code
 
+Download the example-project-starter.zip from this repository, or use the link below.
+
 [Download Starter Files](https://drive.google.com/file/d/1fLdX2koOmXWpN-98rRNIXBsgv_m5kpF2/view?usp=sharing)
 
 ### Step 2: Setup GitHub Repository
