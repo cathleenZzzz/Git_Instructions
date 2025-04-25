@@ -34,8 +34,6 @@ You need two things:
 git --version
 ```
 If Git is not installed, a pop-up will prompt you to install it.
-https://www.idownloadblog.com/2019/04/19/ways-open-terminal-mac/![image](https://github.com/user-attachments/assets/f3341912-7667-475a-89b1-39e6c03f6ce7)
-
 **Windows:**
 - Download Git from [git-scm.com](https://git-scm.com/download/win)
 - Run the installer. Use default settings unless you know what you're doing.
