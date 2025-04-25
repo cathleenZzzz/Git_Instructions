@@ -6,7 +6,7 @@ Download the example-project-starter.zip from this repository, or use the link b
 
 [Download Starter Files](https://drive.google.com/file/d/1fLdX2koOmXWpN-98rRNIXBsgv_m5kpF2/view?usp=sharing)
 
-The zip file contains a simple p5js project. 
+The zip file contains a simple creative coding project. You can run the code by opening the html file. 
 
 ### Step 2: Setup GitHub Repository
 
