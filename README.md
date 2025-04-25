@@ -31,7 +31,7 @@ You need two things:
 
 **Mac:**
 On mac, you will also be using the terminal. Click on this icon, or search and open the terminal using Spotlight.
-![Terminal](Git_Instructions/images/icon.png)
+![Terminal](images/icon.png)
 ```bash
 git --version
 ```
