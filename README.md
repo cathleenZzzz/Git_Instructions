@@ -195,3 +195,7 @@ Here are additional resources you can use for your projects.
 - [Interactive Git Tutorial](https://learngitbranching.js.org/)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+# Example Project
+
+You are now ready to try this on a project! Navigate to the example_project folder and follow the instructions there. 
