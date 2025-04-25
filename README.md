@@ -29,7 +29,7 @@ You need two things:
 
 ### Second, install Git
 
-![Terminal](images/unnamed.png)
+![Terminal](images/unnamed.jpg)
 
 **Mac:**
 
