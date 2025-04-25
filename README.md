@@ -38,6 +38,7 @@ In the terminal, type and enter
 git --version
 ```
 If Git is not installed, a pop-up will prompt you to install it.
+
 **Windows:**
 - Download Git from [git-scm.com](https://git-scm.com/download/win)
 - Run the installer. Use default settings unless you know what you're doing.
