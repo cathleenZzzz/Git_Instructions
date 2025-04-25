@@ -108,7 +108,7 @@ git push origin main
 ```
 
 ### Working With Branches
-
+![branches](images/branch_explanations.png)
 - Commit after changes
 - Create new branches for features or major changes
 - Merge branches together after features are finished
