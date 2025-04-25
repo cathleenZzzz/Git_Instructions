@@ -10,7 +10,7 @@ Version control can help you:
 - Work with others on the same project without overwriting each other’s work
 
 ## What is GitHub?
-
+![structure](images/git_structure.png)
 GitHub is a platform where you can store your work (such as code, documents, images), track changes, collaborate with others, and publish your work for others to see. It works with a tool called Git—a kind of digital time machine for your projects.
 
 Let's begin with installing GitHub.
