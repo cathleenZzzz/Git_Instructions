@@ -30,6 +30,7 @@ You need two things:
 ### Second, install Git
 
 **Mac:**
+
 On mac, you will also be using the terminal. Click on this icon, or search and open the terminal using Spotlight.
 
 ![Terminal](images/icon.png)
