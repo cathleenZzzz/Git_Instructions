@@ -1,4 +1,4 @@
-# Instructions for Version Control in GitHub (READ ME FIRST)
+# Instructions for Version Control (READ ME FIRST)
 
 ## What is version control?
 
