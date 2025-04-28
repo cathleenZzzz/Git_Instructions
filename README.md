@@ -104,11 +104,13 @@ git add .
 git commit -m "Your message explaining the changes"
 git push origin main
 ```
+This step is like taking a picture of your work so you can go back to it later if you mess up
 
 ### Working With Branches
 ![branches](images/branch_explanations.png)
 - Commit after changes
 - Create new branches for features or major changes
+  Making a branch is just making a copy of your project to try new ideas without messing up your original work.
 - Merge branches together after features are finished
 
 Commands:
@@ -138,9 +140,11 @@ git push origin branch-name
   - Click "Compare & pull request"
   - Add title and description
   - Click "Create pull request"
+A pull request essentially asks your team (or yourself) to check and approve your changes before you merge them into the main project.
 
 ### Handling Conflicts
 
+If two people changed the same thing, Git shows you where they fought so you can choose what stays.
 If conflicts occur:
 - Git will show sections marked with `<<<<<<<`, `=======`, and `>>>>>>>`
 - Edit to resolve conflicts
