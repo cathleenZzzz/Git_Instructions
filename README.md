@@ -111,6 +111,7 @@ This step is like taking a picture of your work so you can go back to it later i
 - Commit after changes
 - Create new branches for features or major changes
 - Merge branches together after features are finished
+
 Making a branch is just making a copy of your project to try new ideas without messing up your original work. If you think the new ideas work well, you can merge them to the original. 
 
 Commands:
