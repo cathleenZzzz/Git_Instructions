@@ -133,6 +133,7 @@ git push origin main
 
 ### Pull Requests
 
+A pull request essentially asks your team (or yourself) to check and approve your changes before you merge them into the main project.
 - Push your branch:
 ```bash
 git push origin branch-name
@@ -141,7 +142,6 @@ git push origin branch-name
   - Click "Compare & pull request"
   - Add title and description
   - Click "Create pull request"
-A pull request essentially asks your team (or yourself) to check and approve your changes before you merge them into the main project.
 
 ### Handling Conflicts
 
