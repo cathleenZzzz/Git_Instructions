@@ -104,14 +104,14 @@ git add .
 git commit -m "Your message explaining the changes"
 git push origin main
 ```
-This step is like taking a picture of your work so you can go back to it later if you mess up
+This step is like taking a picture of your work so you can go back to it later if you mess up. 
 
 ### Working With Branches
 ![branches](images/branch_explanations.png)
 - Commit after changes
 - Create new branches for features or major changes
-  Making a branch is just making a copy of your project to try new ideas without messing up your original work.
 - Merge branches together after features are finished
+Making a branch is just making a copy of your project to try new ideas without messing up your original work. If you think the new ideas work well, you can merge them to the original. 
 
 Commands:
 ```bash
