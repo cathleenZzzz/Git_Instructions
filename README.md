@@ -198,4 +198,4 @@ Here are additional resources you can use for your projects.
 
 # Example Project
 
-You are now ready to try this on a project! Navigate to the *example_project* folder and follow the instructions there. 
+You are now ready to try this on a project! Navigate to the *example(Open_After_Reading_Instructions)* folder and follow the instructions there. 
